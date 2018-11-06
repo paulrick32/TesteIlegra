@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{10F92316-86C9-4DF8-8063-1A30DF8756C4}|Testes de Unidade">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TesteIlegra/Steps/StepsBases.cs">
+    <Files>
+      <File FileName="TesteIlegra/Test.cs" Line="1" Column="1" />
+      <File FileName="TesteIlegra/Steps/CompraUmProdutoSteps.cs" Line="14" Column="46" />
+      <File FileName="TesteIlegra/Steps/StepsBases.cs" Line="13" Column="14" />
+      <File FileName="TesteIlegra/Pages/ClassPage.cs" Line="20" Column="17" />
+      <File FileName="TesteIlegra/Feature/SpecFlowFeature.feature" Line="56" Column="66" />
+      <File FileName="TesteIlegra/Elements/ElementsPage.cs" Line="98" Column="9" />
+      <File FileName="TesteIlegra/Elements/ElementsBase.cs" Line="13" Column="14" />
+      <File FileName="TesteIlegra/Setup/SetUp.cs" Line="12" Column="24" />
+      <File FileName="TesteIlegra/packages.config" Line="1" Column="1" />
+      <File FileName="TesteIlegra/App.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TesteIlegra PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
